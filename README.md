@@ -13,7 +13,7 @@ this program is made to onlyme all your posts and delete shared posts in faceboo
 7. `python3 fbd0.py`
 
 ## How to get cookie?
-![alt text](https://github.com/Mrp1r4t3/FBD0/blob/main/images/getcookie.gif?raw=true)
+![](https://github.com/Mrp1r4t3/FBD0/blob/main/images/getcookie.gif?raw=true)
 
 ## YouTube
 [Banned](https://www.youtube.com/c/mrp1r4t3)
