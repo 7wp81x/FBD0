@@ -14,6 +14,8 @@ this program is made to onlyme all your posts and delete shared posts in faceboo
 
 ## How to get cookie?
 ![](https://github.com/Mrp1r4t3/FBD0/blob/main/images/getcookie.gif?raw=true)
+## How to use?
+![](https://github.com/Mrp1r4t3/FBD0/blob/main/images/run.gif?raw=true)
 
 ## YouTube
 [Banned](https://www.youtube.com/c/mrp1r4t3)
