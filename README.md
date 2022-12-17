@@ -12,7 +12,7 @@ this program is made to onlyme all your posts and delete shared posts in faceboo
 6. `pip3 install bs4`
 7. `python3 fbd0.py`
 
-## Get cookie
+## How to get cookie?
 ![alt text](https://github.com/Mrp1r4t3/FBD0/blob/main/images/getcookie.gif?raw=true)
 
 ## YouTube
