@@ -6,18 +6,16 @@ this program is made to onlyme all your posts and delete shared posts in faceboo
 ## Linux Installation
 1. `apt install git -y`
 2. `apt install python3 -y`
-3. `git clone https://github.com/Mrp1r4t3/FBDO`
+3. `git clone https://github.com/7wp81x/FBDO`
 4. `cd FBDO`
 5. `pip3 install requests`
 6. `pip3 install bs4`
 7. `python3 fbd0.py`
 
 ## How to get cookie?
-![](https://github.com/Mrp1r4t3/FBD0/blob/main/images/getcookie.gif?raw=true)
+![](https://github.com/7wp81x/FBD0/blob/main/images/getcookie.gif?raw=true)
 ## How to use?
-![](https://github.com/Mrp1r4t3/FBD0/blob/main/images/run.gif?raw=true)
+![](https://github.com/7wp81x/FBD0/blob/main/images/run.gif?raw=true)
 
 ## YouTube
 [Banned](https://www.youtube.com/c/mrp1r4t3)
-## Facebook Group
-[Not maintained](https://www.facebook.com/)
